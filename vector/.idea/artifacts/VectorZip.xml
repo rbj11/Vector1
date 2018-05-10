@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="VectorZip">
+    <output-path>$PROJECT_DIR$/out/artifacts/VectorZip</output-path>
+    <root id="root">
+      <element id="archive" name="project.zip">
+        <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      </element>
+    </root>
+  </artifact>
+</component>
